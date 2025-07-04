@@ -8,7 +8,7 @@
 
 body{
     min-height: 100vh;
-    background-image: linear-gradient(to right ,#5a189a, #9d4edd,#c77dff , #e0aaff);
+    background-image: linear-gradient(to right ,#718355, #87986a,#b5c99a , #cfe1b9);
 }
 
 h1{
@@ -38,7 +38,7 @@ h1{
    max-width: 700px;
     width: 100%;
     min-height: 700px;
-    background-color: #59189a7b;
+    background-color: #718355b8;
     border: 1px solid white;
     position: relative;
     margin-top: 50px;
@@ -79,7 +79,7 @@ h1{
     position: fixed;
     bottom: 10px;
     right: 10px;
-    color: #5a189a;
+    color: #718355b8;
     display: none;
     z-index: 9999;
     text-decoration: underline;
@@ -89,8 +89,8 @@ h1{
 /*******************************global****************************/
 
 ::selection{
-    background-color: #5a189a;
-    color: white;
+    background-color: #cfe1b9;
+    color: black;
 }
 
 ::-webkit-scrollbar{
@@ -98,7 +98,7 @@ h1{
 }
 
 ::-webkit-scrollbar-thumb{
-    background-color: #5a189a;
+    background-color: #718355;
     border-radius: 12px;
     -webkit-border-radius: 12px;
     -moz-border-radius: 12px;

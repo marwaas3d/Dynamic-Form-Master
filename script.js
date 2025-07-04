@@ -192,7 +192,7 @@ FIELDS.forEach((field)=>{
     let send = document.createElement("button");
     send.setAttribute("class","btn btn-outline-light text-white rounded-pill px-5 py-2 fw-medium");
     send.setAttribute("type","submit");
-    send.style.backgroundImage = "linear-gradient(to left, #5a189a, #9d4edd,#c77dff ,rgb(198, 121, 242))";
+    send.style.backgroundImage = "linear-gradient(to left, #718355, #87986a,#b5c99a ,#cfe1b9)";
     send.textContent = "send";
     
     smartForm.appendChild(send)
